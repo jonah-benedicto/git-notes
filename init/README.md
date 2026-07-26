@@ -1,0 +1,4 @@
+# Init 
+```bash
+git init
+```
