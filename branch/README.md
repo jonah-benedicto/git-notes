@@ -29,3 +29,28 @@ git branch -d <branch>
 ```bash
 git branch -D <branch>
 ```
+
+## Switch Branch
+```bash
+git switch <branch>
+```
+
+## Delete Remote Branch
+```bash
+git push origin --delete <branch>
+```
+
+## Rename Branch
+```bash
+git branch -m <old-name> <new-name>
+```
+
+## Merge Branch
+```bash
+git merge <branch>
+```
+
+## View Branch
+```bash
+git branch
+```
