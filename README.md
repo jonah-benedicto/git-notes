@@ -11,6 +11,7 @@ Git Notes
 - [Commit](./commit)
 - [Tag](./tag)
 - [Stash](./stash)
+- [History](./history)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
