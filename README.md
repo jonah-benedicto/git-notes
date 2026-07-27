@@ -6,7 +6,7 @@ Git Notes
 - [Install](./install)
 - [Config](./config)
 - [Init](./init)
-- [Directory](.directory)
+- [Directory](./directory)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
