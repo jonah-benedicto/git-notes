@@ -9,6 +9,7 @@ Reference for Git.
 - [Config](./config)
 - [.gitignore](./gitignore)
 - [.gitattributes](./gitattributes)
+- [Large File Storage](./lfs)
 - [Init](./init)
 - [Directory](./directory)
 - [Stage](./stage)
