@@ -14,6 +14,7 @@ Git Notes
 - [History](./history)
 - [Help](./help)
 - [Branch](./branch)
+- [Merge](./merge)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
