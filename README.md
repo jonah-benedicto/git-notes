@@ -22,6 +22,7 @@ Git Notes
 - [Revert](./revert)
 - [Reset](./reset)
 - [Amend](./amend)
+- [Rebase](./rebase)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
