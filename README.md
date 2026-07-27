@@ -21,6 +21,7 @@ Git Notes
 - [Clone](./clone)
 - [Revert](./revert)
 - [Reset](./reset)
+- [Amend](./amend)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
