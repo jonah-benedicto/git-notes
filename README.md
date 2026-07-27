@@ -8,6 +8,7 @@ Reference for Git.
 - [Install](./install)
 - [Config](./config)
 - [.gitignore](./gitignore)
+- [.gitattributes](./gitattributes)
 - [Init](./init)
 - [Directory](./directory)
 - [Stage](./stage)
