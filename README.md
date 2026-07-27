@@ -19,6 +19,7 @@ Git Notes
 - [Pull](./pull)
 - [Push](./push)
 - [Clone](./clone)
+- [Revert](./revert)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
