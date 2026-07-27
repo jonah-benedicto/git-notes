@@ -1,10 +1,9 @@
 # Git Notes
 
-A compact reference for common Git commands.
+Reference for Git.
 
 ## Table of Contents
 
-### Setup
 - [Version](./version)
 - [Install](./install)
 - [Config](./config)
