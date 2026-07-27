@@ -7,6 +7,7 @@ Reference for Git.
 - [Version](./version)
 - [Install](./install)
 - [Config](./config)
+- [.gitignore](./gitignore)
 - [Init](./init)
 - [Directory](./directory)
 - [Stage](./stage)
