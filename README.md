@@ -23,6 +23,8 @@ Git Notes
 - [Reset](./reset)
 - [Amend](./amend)
 - [Rebase](./rebase)
+- [Reflog](./reflog)
+- [Restore](./restore)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
