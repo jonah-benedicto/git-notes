@@ -10,6 +10,7 @@ Git Notes
 - [Stage](./stage)
 - [Commit](./commit)
 - [Tag](./tag)
+- [Stash](./stash)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
