@@ -1,26 +1,21 @@
 # History
 
-## Commit History
-```bash
-git log
-```
-
-## Commit History Summary
+## Show recent commits
 ```bash
 git log --oneline
 ```
 
-## Show Commit
+## Show a commit
 ```bash
 git show <commit>
 ```
 
-## Unstaged Changes Differences
+## Show unstaged changes
 ```bash
 git diff
 ```
 
-## Stages Changed Differences
+## Show staged changes
 ```bash
 git diff --staged
 ```

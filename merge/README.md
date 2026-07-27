@@ -1,22 +1,22 @@
 # Merge
 
-## Merge Branch
+## Merge a branch
 ```bash
 git merge <branch>
 ```
 
-## Non Fast-Forward Merge
+## Create a merge commit even for fast-forward merges
 ```bash
 git merge --no-ff <branch>
 ```
 
-## Squash Merge
+## Squash commits from a branch into one
 ```bash
 git merge --squash <branch>
 ```
 
-## Abort Merge
+## Abort an in-progress merge
 ```bash
-git merge --abort <branch>
+git merge --abort
 ```
 

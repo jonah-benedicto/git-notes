@@ -1,9 +1,11 @@
 # Restore
+
+## Restore a file
 ```bash
 git restore <file>
 ```
 
-## Recover from Hard Reset
+## Restore a staged file to the working tree
 ```bash
-git reset --hard
+git restore --staged <file>
 ```

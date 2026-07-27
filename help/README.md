@@ -1,26 +1,17 @@
 # Help
 
-## Command Help
+## Show help for a command
 ```bash
 git help <command>
 ```
-or
-```bash
-git <command> --help
-```
 
-## Command Options
+## Show short help
 ```bash
 git <command> -h
 ```
 
-## List Commands
+## List available commands
 ```bash
 git help --all
-```
-
-## List Command Guides
-```bash
-git help -g
 ```
 

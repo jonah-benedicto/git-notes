@@ -1,7 +1,10 @@
 # Git Notes
-Git Notes
+
+A compact reference for common Git commands.
 
 ## Table of Contents
+
+### Setup
 - [Version](./version)
 - [Install](./install)
 - [Config](./config)
@@ -9,22 +12,22 @@ Git Notes
 - [Directory](./directory)
 - [Stage](./stage)
 - [Commit](./commit)
+- [Amend](./amend)
+- [Restore](./restore)
+- [Reset](./reset)
+- [Revert](./revert)
+- [Branch](./branch)
+- [Merge](./merge)
+- [Rebase](./rebase)
 - [Tag](./tag)
 - [Stash](./stash)
 - [History](./history)
-- [Help](./help)
-- [Branch](./branch)
-- [Merge](./merge)
+- [Reflog](./reflog)
 - [Remote](./remote)
+- [Clone](./clone)
 - [Pull](./pull)
 - [Push](./push)
-- [Clone](./clone)
-- [Revert](./revert)
-- [Reset](./reset)
-- [Amend](./amend)
-- [Rebase](./rebase)
-- [Reflog](./reflog)
-- [Restore](./restore)
+- [Help](./help)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).

@@ -1,26 +1,21 @@
 # Revert
 
-## Revert to Latest Commit
+## Revert the latest commit
 ```bash
 git revert HEAD
 ```
 
-## Revert to Specific Commit
+## Revert a specific commit
 ```bash
 git revert <commit>
 ```
 
-## Revert to Specific Commit
+## Revert multiple commits
 ```bash
 git revert HEAD~2
 ```
 
-## Skip Commit Message Editor
+## Skip the commit message editor
 ```bash
 git revert --no-edit
-```
-
-## Show Commit History
-```bash
-git log --oneline
 ```

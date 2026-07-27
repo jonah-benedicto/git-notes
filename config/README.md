@@ -1,43 +1,29 @@
 # Config
 
-## Levels
-- System: ```git config --system```
-- Global: ```git config --global```
-- Local: ```git config --local```
-
-## Username
+## Set a global username
 ```bash
 git config --global user.name "username"
 ```
 
-## Email
+## Set a global email
 ```bash
 git config --global user.email "email"
 ```
 
-## View All
+## View current config
 ```bash
-git config --global --list
+git config --list
 ```
 
-## View Username
+## Use a different config level
 ```bash
-git config --global user.name
+git config --system
 ```
-
-## View Email
 ```bash
-git config --global user.email
+git config --global
 ```
-
-## Remove Username
 ```bash
-git config --global --unset user.name
-```
-
-## Remove Email
-```bash
-git config --global --unset user.email
+git config --local
 ```
 
 

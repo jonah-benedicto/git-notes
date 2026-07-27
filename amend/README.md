@@ -1,12 +1,12 @@
 # Amend
 
-## Add File To Last Commit
+## Amend the last commit
 ```bash
 git add <file>
 git commit --amend
 ```
 
-## Remove File From Last Commit
+## Remove a file from the last commit
 ```bash
 git reset HEAD^ -- <file>
 git commit --amend

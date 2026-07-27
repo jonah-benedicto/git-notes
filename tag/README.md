@@ -1,26 +1,26 @@
 # Tag
 
-## Create Lightweight Tag
+## Create a lightweight tag
 ```bash
 git tag <tag>
 ```
 
-## Create Annotated Tag
+## Create an annotated tag
 ```bash
 git tag -a <tag> -m "message"
 ```
 
-## Tag Commit
+## Tag a specific commit
 ```bash
 git tag <tag> <commit>
 ```
 
-## List Tags
+## List tags
 ```bash
 git tag
 ```
 
-## See Tag
+## Show a tag
 ```bash
 git show <tag>
 ```

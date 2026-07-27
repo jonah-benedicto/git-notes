@@ -1,46 +1,41 @@
 # Stash
 
-## Stash All Files
+## Stash current changes
 ```bash
 git stash
 ```
 
-## Stash All Files with Message
+## Stash with a message
 ```bash
 git stash push -m "message"
 ```
 
-## List All Stashes
+## List stashes
 ```bash
 git stash list
 ```
 
-## Show Stash
-```bash
-git stash show stash@{n}
-```
-
-## Apply Stash
+## Apply a stash
 ```bash
 git stash apply stash@{n}
 ```
 
-## Pop Stash
+## Pop a stash
 ```bash
 git stash pop
 ```
 
-## Drop Stash
+## Drop a stash
 ```bash
 git stash drop stash@{n}
 ```
 
-## Clear All Stashes
+## Clear all stashes
 ```bash
 git stash clear
 ```
 
-## Branch Stash
+## Create a branch from a stash
 ```bash
 git stash branch <branch> stash@{n}
 ```

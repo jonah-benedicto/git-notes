@@ -1,16 +1,16 @@
 # Commit
 
-## Commit Staged Files
+## Create a commit
 ```bash
 git commit -m "message"
 ```
 
-## Commit All Files (Skip Staging)
+## Commit all tracked changes
 ```bash
-git commit -a -m "message"
+git commit -am "message"
 ```
 
-## Commit History 
+## View recent history
 ```bash
 git log
 ```

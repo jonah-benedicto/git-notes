@@ -1,61 +1,41 @@
 # Branch
 
-## Create Branch
+## Create a branch
 ```bash
 git branch <branch>
 ```
 
-## List Branch
-```bash
-git branch
-```
-
-## Switch Branch
-```bash
-git checkout <branch>
-```
-
-## Switch Branch and Create Branch If Does Not Exist
-```bash
-git checkout -b <branch>
-```
-
-## Delete Merged Branch
-```bash
-git branch -d <branch>
-```
-
-## Delete Unmerged Branch
-```bash
-git branch -D <branch>
-```
-
-## Switch Branch
+## Switch to a branch
 ```bash
 git switch <branch>
 ```
 
-## Delete Remote Branch
+## Create and switch to a new branch
 ```bash
-git push origin --delete <branch>
+git switch -c <branch>
 ```
 
-## Rename Branch
+## Rename a branch
 ```bash
 git branch -m <old-name> <new-name>
 ```
 
-## Merge Branch
+## Delete a branch
 ```bash
-git merge <branch>
+git branch -d <branch>
 ```
 
-## List All Branch
+## Delete a branch forcefully
+```bash
+git branch -D <branch>
+```
+
+## Delete a remote branch
+```bash
+git push origin --delete <branch>
+```
+
+## List branches
 ```bash
 git branch -a
-```
-
-## Push Branch
-```bash
-git push origin <branch>
 ```

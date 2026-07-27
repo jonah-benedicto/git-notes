@@ -1,25 +1,21 @@
 # Stage
 
-## Stage File
+## Stage a file
 ```bash
 git add <file>
 ```
 
-## Stage All Files
-```bash
-git add --all
-```
-or 
+## Stage all changes
 ```bash
 git add -A
 ```
 
-## See Staged Files
+## Check staged changes
 ```bash
 git status
 ```
 
-## Unstage File
+## Unstage a file
 ```bash
 git restore --staged <file>
 ```

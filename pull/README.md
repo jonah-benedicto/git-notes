@@ -1,16 +1,11 @@
 # Pull
 
-## Fetch
+## Fetch remote changes
 ```bash
 git fetch <remote>
 ```
 
-## Merge
-```bash
-git merge <branch>
-```
-
-## Pull
+## Pull changes from a remote
 ```bash
 git pull <remote>
 ```

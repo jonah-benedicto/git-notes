@@ -1,24 +1,26 @@
 # Rebase
+
+## Rebase onto another branch
 ```bash
 git rebase <branch>
 ```
 
-## Interactive Rebash
+## Start an interactive rebase
 ```bash
 git rebase -i <base>
 ```
 
-## Continue
+## Continue a rebase
 ```bash
 git rebase --continue
 ```
 
-## Cancel Rebase
+## Abort a rebase
 ```bash
 git rebase --abort
 ```
 
-## Skip
+## Skip the current commit in a rebase
 ```bash
 git rebase --skip
 ```

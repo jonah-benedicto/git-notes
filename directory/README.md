@@ -1,16 +1,16 @@
 # Directory
 
-## List Directory
+## List files
 ```bash
 ls
 ```
 
-## Make Directory
+## Create a directory
 ```bash
 mkdir <directory>
 ```
 
-## Change Directory
+## Change directory
 ```bash
 cd <directory>
-``
+```
