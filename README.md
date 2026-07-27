@@ -9,6 +9,7 @@ Git Notes
 - [Directory](./directory)
 - [Stage](./stage)
 - [Commit](./commit)
+- [Tag](./tag)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
