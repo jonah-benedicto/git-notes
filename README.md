@@ -17,6 +17,7 @@ Git Notes
 - [Merge](./merge)
 - [Remote](./remote)
 - [Pull](./pull)
+- [Push](./push)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
