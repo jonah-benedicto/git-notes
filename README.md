@@ -15,6 +15,7 @@ Git Notes
 - [Help](./help)
 - [Branch](./branch)
 - [Merge](./merge)
+- [Remote](./remote)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
