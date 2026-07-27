@@ -7,10 +7,10 @@ ls
 
 ## Make Directory
 ```bash
-mkdir
+mkdir <directory>
 ```
 
 ## Change Directory
 ```bash
-cd
+cd <directory>
 ``

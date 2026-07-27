@@ -7,12 +7,12 @@
 
 ## Username
 ```bash
-git config --global user.name "Enter Username"
+git config --global user.name "username"
 ```
 
 ## Email
 ```bash
-git config --global user.email "Enter Email"
+git config --global user.email "email"
 ```
 
 ## View All

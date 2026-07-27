@@ -2,17 +2,17 @@
 
 ## Create Lightweight Tag
 ```bash
-git tag <tagname>
+git tag <tag>
 ```
 
 ## Create Annotated Tag
 ```bash
-git tag -a <tagname> -m <message>
+git tag -a <tag> -m "message"
 ```
 
 ## Tag Commit
 ```bash
-git tag <tagname> <commit>
+git tag <tag> <commit>
 ```
 
 ## List Tags
@@ -22,6 +22,6 @@ git tag
 
 ## See Tag
 ```bash
-git show <tagname>
+git show <tag>
 ```
 
