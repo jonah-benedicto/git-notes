@@ -1,4 +1,0 @@
-# Change Folder
-```bash
-cd
-```

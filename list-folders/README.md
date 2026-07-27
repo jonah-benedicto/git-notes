@@ -1,4 +1,0 @@
-# List Folders
-```bash
-ls
-```

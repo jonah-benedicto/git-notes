@@ -6,10 +6,7 @@ Git Notes
 - [Install](./install)
 - [Config](./config)
 - [Init](./init)
-- Folders
-    - [List Folders](./list-folders)
-    - [Create Folder](./create-folder)
-    - [Change Folder](./change-folder)
+- [Directory](.directory)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
