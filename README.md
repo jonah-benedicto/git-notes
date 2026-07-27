@@ -10,6 +10,7 @@ Reference for Git.
 - [.gitignore](./gitignore)
 - [.gitattributes](./gitattributes)
 - [Large File Storage](./lfs)
+- [Sign](./sign)
 - [Init](./init)
 - [Directory](./directory)
 - [Stage](./stage)
