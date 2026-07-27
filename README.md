@@ -8,6 +8,7 @@ Git Notes
 - [Init](./init)
 - [Directory](./directory)
 - [Stage](./stage)
+- [Commit](./commit)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
