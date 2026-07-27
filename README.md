@@ -18,6 +18,7 @@ Git Notes
 - [Remote](./remote)
 - [Pull](./pull)
 - [Push](./push)
+- [Clone](./clone)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
