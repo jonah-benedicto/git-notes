@@ -20,6 +20,7 @@ Git Notes
 - [Push](./push)
 - [Clone](./clone)
 - [Revert](./revert)
+- [Reset](./reset)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
