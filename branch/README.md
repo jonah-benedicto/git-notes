@@ -50,7 +50,12 @@ git branch -m <old-name> <new-name>
 git merge <branch>
 ```
 
-## View Branch
+## List All Branch
 ```bash
-git branch
+git branch -a
+```
+
+## Push Branch
+```bash
+git push origin <branch>
 ```
