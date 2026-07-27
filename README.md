@@ -13,6 +13,7 @@ Git Notes
 - [Stash](./stash)
 - [History](./history)
 - [Help](./help)
+- [Branch](./branch)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
