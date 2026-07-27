@@ -1,4 +1,0 @@
-# Status
-```bash
-git status
-```

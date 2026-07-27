@@ -7,7 +7,7 @@ Git Notes
 - [Config](./config)
 - [Init](./init)
 - [Directory](./directory)
-- [Status](./status)
+- [Stage](./stage)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
